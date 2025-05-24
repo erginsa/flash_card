@@ -190,8 +190,8 @@ def undo_clicked():
         messagebox.showwarning("Undo", "Nothing to undo.")
 
 
-# ---------------------------- UI SETUP ---------------------------- #
 
+# ---------------------------- UI SETUP ---------------------------- #
 # Load card images
 front_image = PhotoImage(file="images/card_front.png")
 back_image = PhotoImage(file="images/card_back.png")
